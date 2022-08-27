@@ -2,7 +2,7 @@
 -- Name        : bin2_7seg.vhd
 -- Description : Binary to seven segment converter
 -- Designed by : Claudio Avi Chami - FPGA'er website
---               http://fpgaer.wordpress.com
+--               http://fpgaer.tech
 -- Date        : 04/August/2016
 ------------------------------------------------------------------
 library ieee;
